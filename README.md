@@ -1,2 +1,2 @@
 # Paint_And_Mouse
-Paint with the mouse 
+Programe were you can paint graphics from class in picturebox with mouse click
